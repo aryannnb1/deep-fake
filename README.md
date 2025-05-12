@@ -23,6 +23,8 @@ The Multiscale Vision Transformer (MViT) is chosen for this project due to its a
 - **Transformer-based Architecture**: Provides robustness and scalability.
 - **Pretrained Weights**: The model uses pretrained weights on ImageNet for initialization.
 
+[Download Model Weights](https://drive.google.com/file/d/1aYqNhQTp8NCvohw9U85hFUOqBMFhuoTr/view?usp=drive_link)
+
 ## Results
 
 The model achieves state-of-the-art performance on the Celeb-DF V2 dataset. Detailed results can be found in the `results/` directory.
